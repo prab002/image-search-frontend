@@ -1,8 +1,9 @@
+import Home from "./Home";
 
 function App() {
   return (
     <div>
-      image search
+      <Home />
     </div>
   );
 }
